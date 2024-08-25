@@ -20,14 +20,14 @@ JSON Array with 6 main Rail lines:
   - LRT Sri Petaling Line (SPL)
   - MRT Putrajaya Line (PYL)
 
-**Example Response** : '{"LineID":"PYL","Line":"MRT Putrajaya Line","Status":"Normal Service","Remarks":""}' 
-LineID: ID of the route
-Line: Official name of the route
-Status: Current Status of the line.
-Remarks: If service is either "Revised" of "Out of Service", remarks will be given.
+**Example Response** : {"LineID":"PYL","Line":"MRT Putrajaya Line","Status":"Normal Service","Remarks":""}  
+LineID: ID of the route  
+Line: Official name of the route  
+Status: Current Status of the line.  
+Remarks: If service is either "Revised" of "Out of Service", remarks will be given.  
 
 ### Rate Limit
-no rate limit lol
+no rate limit lol  
 
 ### Local ISP and Regional Limit
 no geolocation i dont care where you are from.
