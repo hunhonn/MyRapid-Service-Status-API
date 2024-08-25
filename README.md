@@ -30,4 +30,4 @@ JSON Array with 6 main Rail lines:
 no rate limit lol  
 
 ### Local ISP and Regional Limit
-no geolocation i dont care where you are from.
+no geolock either
