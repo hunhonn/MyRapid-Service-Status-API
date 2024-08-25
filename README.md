@@ -1,6 +1,6 @@
 # MyRapid-Service-Status-API
 The MyRapid service status API shows the real-time train service status and service updates operated by RapidKL.
-> Inspired by the API call by MTREC. However, this API is not geolocked.
+> Inspired by the API call by MTREC. This API is free to use and has no restrictions.
 
 ## Request
 Make a GET Request to [https://rapiddisruption-1-m9526224.deta.app/](url)
@@ -25,9 +25,3 @@ JSON Array with 6 main Rail lines:
   **Line**: Official name of the route  
   **Status**: Current Status of the line.  
   **Remarks**: If Status is either "Revised" of "Out of Service", remarks will be given.  
-
-### Rate Limit
-no rate limit lol  
-
-### Local ISP and Regional Limit
-no geolock either
