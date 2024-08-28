@@ -1,6 +1,6 @@
 # MyRapid-Service-Status-API
-The MyRapid service status API shows the real-time train service status and service updates operated by RapidKL.
-> Inspired by the API call by MTREC. This API is free to use and has no restrictions.
+The MyRapid service status API shows the real-time train service status and service updates operated by MyRapid.
+> Inspired by the RapidRail Service Status API by MTREC. This API is free to use and has no restrictions.
 
 ## Request
 Make a GET Request to [https://rapiddisruption-1-m9526224.deta.app/](url)
